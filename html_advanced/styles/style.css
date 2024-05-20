@@ -1,0 +1,54 @@
+.header-page{
+    background-image: url('../images/Object.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.section1 {
+    text-align: center;
+
+}
+button {
+    border-radius: 30px;
+    background-color: #c271ff;
+    border-color: #C271ff;
+    color: white;
+    border-width: 10px;
+    box-shadow: 2px 2px 4px grey;
+    cursor: pointer;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.paragraph-styles {
+    width: 60%;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.logo {
+    position: left;
+    margin-left: -30px;
+}
+.nav {
+    position: relative;
+    margin-left: 150px;
+}
+.li {
+    text-align: center;
+    float: right;
+    display: block;
+    padding: 14px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.h1 {
+    font-size: large;
+    text-align: center;
+}
+body{
+    box-sizing: border-box;
+}
