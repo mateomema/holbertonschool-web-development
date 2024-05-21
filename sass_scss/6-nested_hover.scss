@@ -1,0 +1,7 @@
+/* Nested class */
+button {
+  color: #f00;
+  &:hover {
+    color: #0f0;
+  }
+}
